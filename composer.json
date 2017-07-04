@@ -1,0 +1,8 @@
+{
+    "name": "pingshim/composer",
+    "description": "This is my first composer!",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
